@@ -4,3 +4,16 @@
 
 <p align="center">A small, highly skilled, honest, easy-to-work-with design studio with 20 years in digital & creative.<br>
 <a href="https://pudding.studio">pudding.studio</a></p>
+
+## Hi 👋
+
+Pudding is a small product studio run by a few highly skilled, honest, and easy-to-work-with people.
+
+Alongside client work, we design, build, and launch our own products, giving us firsthand experience of taking ideas from concept to a polished, real-world product.
+
+We also build and maintain open-source projects, with a strong focus on the MiSTer FPGA platform and the retro computing community.
+
+These are some of our first open-source projects:
+
+- [**MiSTerFin**](https://github.com/puddingstudio/MiSTerFin) — A Jellyfin client for the MiSTer FPGA platform.
+- [**MiSTer-Toasty-Squadron**](https://github.com/puddingstudio/MiSTer-Toasty-Squadron) — Our reimagined take on the classic Flying Toasters, running natively on CRT TVs through MiSTer FPGA.

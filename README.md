@@ -7,8 +7,6 @@
 
 ## Hi 👋
 
-Pudding is a small product studio run by a few highly skilled, honest, and easy-to-work-with people.
-
 Alongside client work, we design, build, and launch our own products, giving us firsthand experience of taking ideas from concept to a polished, real-world product.
 
 We also build and maintain open-source projects, with a strong focus on the MiSTer FPGA platform and the retro computing community.

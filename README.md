@@ -15,3 +15,8 @@ These are some of our first open-source projects:
 
 - [**MiSTerFin**](https://github.com/puddingstudio/MiSTerFin) — A Jellyfin client for the MiSTer FPGA platform.
 - [**MiSTer-Toasty-Squadron**](https://github.com/puddingstudio/MiSTer-Toasty-Squadron) — Our reimagined take on the classic Flying Toasters, running natively on CRT TVs through MiSTer FPGA.
+
+<p align="center">
+<img src="images/nenad-avatar-animacija.gif" width="120">
+<img src="images/jelena-avatar-animacija.gif" width="120">
+</p>

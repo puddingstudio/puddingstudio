@@ -2,7 +2,7 @@
 
 <h3 align="center">Pudding Studio — Yes! We Deliver.</h3>
 
-<p align="center">A small, highly skilled, honest, easy-to-work-with design studio with 20 years in digital & creative.<br>
+<p align="center">A small, highly skilled design studio creating digital products and open-source software.<br>
 <a href="https://pudding.studio">pudding.studio</a></p>
 
 ## Hi 👋

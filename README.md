@@ -1,4 +1,4 @@
-<p align="center"><img src="images/pudding-mascot-animation.gif" width="160" alt="Pudding mascot"></p>
+<p align="center"><img src="images/pudding-mascot-animation.gif" width="320" alt="Pudding mascot"></p>
 
 <h3 align="center">Pudding Studio — Yes! We Deliver.</h3>
 
